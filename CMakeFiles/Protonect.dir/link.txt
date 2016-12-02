@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Protonect.dir/src/Protonect.cpp.o CMakeFiles/Protonect.dir/src/flextGL.cpp.o CMakeFiles/Protonect.dir/src/viewer.cpp.o  -o Protonect -Wl,-rpath,/usr/local/lib -rdynamic /usr/local/lib/libfreenect2.so -lpthread /usr/local/lib/libglfw.so -lGL 

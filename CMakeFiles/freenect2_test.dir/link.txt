@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/freenect2_test.dir/src/Protonect.cpp.o CMakeFiles/freenect2_test.dir/src/flextGL.cpp.o CMakeFiles/freenect2_test.dir/src/viewer.cpp.o  -o freenect2_test -Wl,-rpath,/usr/local/lib -rdynamic /usr/local/lib/libglfw.so -lGL /usr/local/lib/libfreenect2.so -lpthread 

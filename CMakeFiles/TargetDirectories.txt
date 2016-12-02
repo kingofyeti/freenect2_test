@@ -1,0 +1,3 @@
+/home/virtualbloks/github/freenect2_test/bin/CMakeFiles/rebuild_cache.dir
+/home/virtualbloks/github/freenect2_test/bin/CMakeFiles/edit_cache.dir
+/home/virtualbloks/github/freenect2_test/bin/CMakeFiles/freenect2_test.dir
